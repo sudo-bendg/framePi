@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebInterfaceApplication<web-interface>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.framepi.web_interface.WebInterfaceApplication",
+            "projectName": "web-interface",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
