@@ -1,4 +1,0 @@
-xserver-xorg
-xinit
-feh
-openbox

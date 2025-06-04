@@ -6,7 +6,7 @@
 
 ## 📦 Features
 
-- Fullscreen photo slideshow using `feh`
+- Fullscreen photo slideshow using `fbi`
 - Randomized image display with configurable delay
 - Runs on Raspberry Pi OS Lite with minimal resource usage
 - Prevents screen blanking and power-saving interruptions
